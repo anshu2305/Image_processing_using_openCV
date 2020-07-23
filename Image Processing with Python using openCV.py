@@ -46,9 +46,6 @@ blur(new_img) #shows blur effect for different values of kernel
 sharpen(new_img)
 
 
-# In[ ]:
-
-
 
 
 
